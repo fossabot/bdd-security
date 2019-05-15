@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/nicolasiltis/bdd-security.svg?branch=master)](https://travis-ci.org/nicolasiltis/bdd-security)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvashistha%2Fbdd-security.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvashistha%2Fbdd-security?ref=badge_shield)
 
 
 ![](https://www.continuumsecurity.net/wp-content/uploads/2016/10/bdd-security160.png) 
@@ -46,3 +47,7 @@ Legacy JBehave version is available on the jbehave branch
 - Moved the OWASP ZAP false positives to tables/zap.false_positives.table
 - Fixed bug in the portscan story
 - Enabled portscanning of multiple hosts
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvashistha%2Fbdd-security.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvashistha%2Fbdd-security?ref=badge_large)
